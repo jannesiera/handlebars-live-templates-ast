@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-live-templates-ast",
+  "version": "0.0.0",
+  "description": "Transform a handlebars template in a dom-like AST. This AST can be used by code generators to generate, for example, virtual dom functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannesiera/handlebars-live-templates-ast.git"
+  },
+  "keywords": [
+    "handlebars",
+    "ast",
+    "compiler",
+    "vdom",
+    "idom"
+  ],
+  "author": "Janne Siera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jannesiera/handlebars-live-templates-ast/issues"
+  },
+  "homepage": "https://github.com/jannesiera/handlebars-live-templates-ast#readme"
+}
